@@ -1,7 +1,7 @@
 <?php
 // Database connection details
-$servername = "127.0.0.1";
-$username = "root";
+$servername = "";
+$username = "";
 $password = ""; // Leave empty if you do not have a password
 $dbname = "gufc"; // Replace with your database name
 
